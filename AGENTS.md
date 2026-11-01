@@ -47,7 +47,7 @@ onethread/supervisor.py launch, watch and recover detached worker processes
 onethread/ops.py        validate + apply operations
 demo/run_demo.py        scripted end-to-end demonstration (fake agents)
 tests/                  unittest suite
-docs/                   ARCHITECTURE.md, STATUS.md, superpowers/ (design and plan)
+docs/                   ARCHITECTURE.md, STATUS.md, superpowers/specs/ (designs; plans stay local)
 ```
 
 ## Testing

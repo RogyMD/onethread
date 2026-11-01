@@ -4,3 +4,4 @@ __pycache__/
 # Private planning notes (also excluded via .git/info/exclude)
 craftapps/
 .superpowers/
+docs/superpowers/plans/
