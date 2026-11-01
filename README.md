@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/icon.svg" width="128" height="128" alt="onethread icon: a river with tributaries flowing into it"></p>
+<img src="docs/icon.svg" width="128" height="128" alt="onethread icon: a river with tributaries flowing into it">
 
 # onethread
 
