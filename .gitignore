@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Private planning notes (also excluded via .git/info/exclude)
+craftapps/
+.superpowers/
