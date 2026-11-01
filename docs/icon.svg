@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <title>onethread: one river, its tributaries flowing in</title>
+  <defs>
+    <clipPath id="tile"><rect width="128" height="128" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#tile)">
+    <rect width="128" height="128" fill="#3f8f5a"/>
+    <path d="M0 96 C30 86 60 96 128 80 V128 H0Z" fill="#357a4c"/>
+    <g fill="none" stroke-linecap="round">
+      <g stroke="#cfeefc">
+        <path d="M8 22 C30 30 46 46 58 64" stroke-width="9"/>
+        <path d="M120 30 C104 44 84 58 68 76" stroke-width="9"/>
+        <path d="M64 0 C56 40 74 80 60 128" stroke-width="20"/>
+      </g>
+      <g stroke="#2f8fd6">
+        <path d="M8 22 C30 30 46 46 58 64" stroke-width="5"/>
+        <path d="M120 30 C104 44 84 58 68 76" stroke-width="5"/>
+        <path d="M64 0 C56 40 74 80 60 128" stroke-width="14"/>
+      </g>
+    </g>
+  </g>
+</svg>

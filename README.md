@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/icon.svg" width="128" height="128" alt="onethread icon: a river with tributaries flowing into it"></p>
+
 # onethread
 
 **You talk to one agent. Many coding agents work behind it.**
